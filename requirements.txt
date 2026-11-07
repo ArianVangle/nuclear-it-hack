@@ -1,0 +1,9 @@
+# Версии закреплены: на них получены все числа из README.
+
+numpy==2.5.3
+pandas==3.0.5
+scikit-learn==1.9.1
+lightgbm==4.7.0
+rdkit==2026.03.6
+requests==2.34.2
+scipy==1.18.1
